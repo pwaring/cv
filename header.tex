@@ -1,0 +1,31 @@
+\usepackage[top=.5in, bottom=.5in, left=1in, right=1in]{geometry}
+\usepackage{enumitem}
+\usepackage{tgpagella}
+\usepackage{titlesec}
+\titleformat{\section}{\huge\bfseries}{\thesection}{1em}{}
+\titlespacing{\section}{0pt}{0pt}{1em}
+\titleformat{\subsection}{\large\bfseries\MakeUppercase}{\thesubsection}{1em}{}
+
+%\usepackage{multicol}
+\pagestyle{empty}
+%\hyphenation{Media-Wiki}
+
+\renewcommand{\labelitemi}{}
+\renewcommand{\labelitemii}{\raise .5ex\hbox{\tiny$\blacktriangleright$}}
+
+% from http://tex.stackexchange.com/a/29796/16139
+\newsavebox{\zerobox}
+\newenvironment{nospace}
+  {\par\edef\theprevdepth{\the\prevdepth}\nointerlineskip
+   \setbox\zerobox=\vtop to 0pt\bgroup
+   \hrule height0pt\kern\dimexpr\baselineskip-\topskip\relax
+  }
+  {\par\vss\egroup\ht\zerobox=0pt \wd\zerobox=0pt \dp\zerobox=0pt
+   \box\zerobox}
+
+\setitemize[0]{itemindent=0pt,leftmargin=*}
+\setitemize[1]{itemindent=0pt,leftmargin=*}
+\setitemize[2]{itemindent=10pt}
+
+%\setlist[itemize,0]{leftmargin=*,itemindent=0pt}
+%\setlist[itemize,1]{leftmargin=*,itemindent=10pt}

@@ -28,7 +28,7 @@ Experience
     - Maintain and develop internal infrastructure and software as part of a small team.
     - Provide student-facing support in laboratories and contribute to teaching materials.
     - Develop testing environments to match production, using Vagrant and VirtualBox.
-    - Built PHP web service to abstract sending email with auditing and rate limiting for use in student exercises.
+    - Built PHP web service to abstract sending email in student exercises, with auditing and rate limiting.
     - Integrated multiple support systems and authored CPAN modules: [OTRS::ForwardQueue](https://metacpan.org/pod/OTRS::ForwardQueue) and [WWW::BrokenLinks](https://metacpan.org/pod/WWW::BrokenLinks).
 
 *   **Direct Fleet Insurance Services Ltd**
@@ -37,9 +37,9 @@ Experience
 
     - Promoted from Technical Manager to IT Director after 18 months with the company.
     - Formulated and agreed long term strategy as member of the Board, including budgets and financial forecasting.
-    - Researched and implemented pension provision for employees in advance of the statutory deadline for auto-enrolment.
+    - Researched and implemented pension provision for employees in preparation for auto-enrolment.
     - Reduced server-side IT expenditure by 25% as a result of reviewing platform hosting costs, switching providers and consolidating services.
-    - Held Financial Conduct Authority approved person status for this role due to it being a significant-influence function.
+    - Held Financial Conduct Authority approved person status for the duration of this role.
     
 *   **Direct Fleet Insurance Services Ltd**
 
@@ -47,10 +47,10 @@ Experience
 
     - Maintained and developed online wholesale insurance trading platform, written in PHP and Perl with MySQL for data storage.
     - Developed integrated and automated invoicing and credit control system, handling over £30m of annual premiums.
-    - Automated a wide range of repetitive tasks, including production of Excel reports, eliminating re-keying errors and enabling daily updates.
+    - Automated a wide range of repetitive tasks, including production of Excel reports, eliminating re-keying errors and reducing turnaround time.
     - Built two new insurance products from scratch: commercial combined and automated breakdown quotations. Managed the full process from initial meetings with suppliers through to implementation, reviewing contracts and launch within agreed deadlines.
     - Translated underwriting criteria into an XML web service with a REST API, providing 10,000 quotes per month for a salary sacrifice scheme used by over twenty medium and large UK companies.
-    - Worked with a wide range of external partners, including major UK insurers.
+    - Worked with a wide range of external partners, including major UK insurers, Experian and the Motor Insurers' Bureau.
 
 *   **UKUUG Ltd**
 

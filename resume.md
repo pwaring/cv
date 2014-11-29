@@ -26,6 +26,7 @@ Experience
     Software Support Officer, December 2013 - Present
     
     - Maintain and develop internal infrastructure and software as part of a small team.
+    - Provide both regular and short-notice cover for academic staff due to timetable clashes, illness etc.
     - Provide student-facing support in laboratories and contribute to teaching materials.
     - Develop testing environments to match production, using Vagrant and VirtualBox.
     - Built PHP web service to abstract sending email in student exercises, with auditing and rate limiting.

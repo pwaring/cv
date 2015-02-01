@@ -12,7 +12,7 @@ IT professional with broad range of qualifications up to postgraduate level. Exp
 Skills
 ------
 
-*   **Computer Languages:** Proficient with PHP and SQL. Familiar with C, Java and Perl.
+*   **Computer Languages:** Proficient with PHP and SQL. Familiar with C, Java, Perl and Python.
 *   **Web Development:** Proficient with HTML and XML. Familiar with CSS and jQuery.
 *   **Operating Systems:** Proficient with Linux, particularly Debian and Ubuntu.
 *   **Application Software:** Proficient with Apache, MySQL and Subversion. Familiar with Postfix and Git.
@@ -26,10 +26,11 @@ Experience
     Software Support Officer, December 2013 - Present
     
     - Maintain and develop internal infrastructure and software as part of a small team.
-    - Provide both regular and short-notice cover for academic staff due to timetable clashes, illness etc.
+    - Provide cover in laboratories for academic staff due to timetable clashes, illness etc.
     - Provide student-facing support in laboratories and contribute to teaching materials.
     - Develop testing environments to match production, using Vagrant and VirtualBox.
     - Built PHP web service to abstract sending email in student exercises, with auditing and rate limiting.
+    - Ported existing Python CGI application over to Flask framework and WSGI.
     - Integrated multiple support systems and authored CPAN modules: [OTRS::ForwardQueue](https://metacpan.org/pod/OTRS::ForwardQueue) and [WWW::BrokenLinks](https://metacpan.org/pod/WWW::BrokenLinks).
 
 *   **Direct Fleet Insurance Services Ltd**

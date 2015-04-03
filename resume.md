@@ -59,7 +59,7 @@ Experience
     Director, September 2008 - January 2013  
     Council Member, September 2007 - September 2013
 
-    - Organised two annual conferences with other volunteers; lead organiser and conference chair for 2009, 2010 and 2011.
+    - Organised annual conferences with other volunteers; lead organiser and conference chair for 2009, 2010 and 2011.
     - Served as chairman for four years (2008-2012), with responsibility for chairing bi-monthly Council meetings and the AGM.
     - Liaised with a range of corporate sponsors, including Bytemark, Google and Sun Microsystems (now Oracle).
 

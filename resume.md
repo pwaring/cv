@@ -15,20 +15,27 @@ Skills
 *   **Computer Languages:** Proficient with PHP and SQL. Familiar with C, Java, Perl and Python.
 *   **Web Development:** Proficient with HTML and XML. Familiar with CSS and jQuery.
 *   **Operating Systems:** Proficient with Linux, particularly Debian and Ubuntu.
-*   **Application Software:** Proficient with Apache, MySQL and Subversion. Familiar with Postfix and Git.
+*   **Application Software:** Proficient with Apache, MySQL and Git. Familiar with Postfix and Subversion.
 *   **Virtualisation:** Familiar with Vagrant, VirtualBox, virt-manager and KVM.
 
 Experience
 ----------
 
+*   **Self Employment**
+
+    Freelance Consultant, July 2015 - Present
+
+    - Development of bespoke websites and customisation of existing software, primarily using PHP and MySQL.
+    - Management and maintenance of client websites, including software updates (e.g. WordPress).
+
 *   **University of Manchester**
 
-    Software Support Officer, December 2013 - Present
-    
-    - Maintain and develop internal infrastructure and software as part of a small team.
-    - Provide cover in laboratories for academic staff due to timetable clashes, illness etc.
-    - Provide student-facing support in laboratories and contribute to teaching materials.
-    - Develop testing environments to match production, using Vagrant and VirtualBox.
+    Software Support Officer, December 2013 - June 2015
+
+    - Maintained and developed internal infrastructure and software as part of a small team.
+    - Provided cover in laboratories for academic staff due to timetable clashes, illness etc.
+    - Provided student-facing support in laboratories and contribute to teaching materials.
+    - Developed testing environments to match production, using Vagrant and VirtualBox.
     - Built PHP web service to abstract sending email in student exercises, with auditing and rate limiting.
     - Ported existing Python CGI application over to Flask framework and WSGI.
     - Integrated multiple support systems and authored CPAN modules: [OTRS::ForwardQueue](https://metacpan.org/pod/OTRS::ForwardQueue) and [WWW::BrokenLinks](https://metacpan.org/pod/WWW::BrokenLinks).
@@ -42,7 +49,7 @@ Experience
     - Researched and implemented pension provision for employees in preparation for auto-enrolment.
     - Reduced server-side IT expenditure by 25% as a result of reviewing platform hosting costs, switching providers and consolidating services.
     - Held Financial Conduct Authority approved person status for the duration of this role.
-    
+
 *   **Direct Fleet Insurance Services Ltd**
 
     Technical Manager, March 2009 - November 2013
@@ -70,12 +77,6 @@ Experience
     - Elected as a director & trustee of a local sustainable development charity which runs a number of projects in Manchester.
     - Focused on improving the finances of the organisation, including working closely with the finance officer and executive director to identify funding and reserve requirements, and potential reductions in expenditure.
     - Chaired board meetings in rotation with other trustees.
-    
-*   **Self Employment**
-
-    Freelance Developer, February 2002 - Present
-
-    - Development of bespoke websites and customisation of existing software, primarily using PHP and MySQL.
 
 *   **Independent Power Engineering Contractors (IPEC) Ltd**
 
@@ -84,7 +85,7 @@ Experience
     - Developed customised Linux distribution for monitoring of electrical substations.
     - Maintained and developed web-based data analysis software using a combination of PHP and Perl, with PostgreSQL for data storage.
     - Day-to-day maintenance of servers, including Apache (web) and Bind (DNS).
- 
+
 Other activities
 ----------------
 
@@ -113,5 +114,3 @@ Education
     September 2003 - June 2006
 
     - BSc (Hons) Computer Science (2:1)
-
-

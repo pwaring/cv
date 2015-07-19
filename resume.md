@@ -9,7 +9,7 @@ Summary
 
 IT professional with broad range of qualifications up to postgraduate level. Experience in public, private and voluntary sectors, including combined eight years of service on several boards.
 
-Skills
+Technical Skills
 ------
 
 *   **Computer Languages:** Proficient with PHP and SQL. Familiar with C, Java, Perl and Python.

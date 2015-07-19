@@ -78,14 +78,6 @@ Experience
     - Focused on improving the finances of the organisation, including working closely with the finance officer and executive director to identify funding and reserve requirements, and potential reductions in expenditure.
     - Chaired board meetings in rotation with other trustees.
 
-*   **Independent Power Engineering Contractors (IPEC) Ltd**
-
-    Software Developer, July 2005 - September 2005
-
-    - Developed customised Linux distribution for monitoring of electrical substations.
-    - Maintained and developed web-based data analysis software using a combination of PHP and Perl, with PostgreSQL for data storage.
-    - Day-to-day maintenance of servers, including Apache (web) and Bind (DNS).
-
 Other activities
 ----------------
 

@@ -7,16 +7,17 @@ paul@xk7.net
 Summary
 -------
 
-IT professional with broad range of qualifications up to postgraduate level. Experience in public, private and voluntary sectors, including combined eight years of service on several boards.
+IT professional with broad range of qualifications up to postgraduate level. Experience in public, private and voluntary sectors, including combined eight years of service on several boards. Currently seeking long-term freelance clients and non-executive directorships.
 
 Technical Skills
 ------
 
-*   **Computer Languages:** Proficient with PHP and SQL. Familiar with C, Java, Perl and Python.
+*   **Computer Languages:** Proficient with PHP and SQL. Familiar with C, Java and Perl.
 *   **Web Development:** Proficient with HTML and XML. Familiar with CSS and jQuery.
 *   **Operating Systems:** Proficient with Linux, particularly Debian and Ubuntu.
 *   **Application Software:** Proficient with Apache, MySQL and Git. Familiar with Postfix and Subversion.
-*   **Virtualisation:** Familiar with Vagrant, VirtualBox, virt-manager and KVM.
+*   **Virtualisation:** Familiar with Vagrant and VirtualBox.
+*   **Configuration Management:** Familiar with Ansible and Puppet.
 
 Experience
 ----------
@@ -27,6 +28,9 @@ Experience
 
     - Development of bespoke websites and customisation of existing software, primarily using PHP and MySQL.
     - Management and maintenance of client websites, including software updates (e.g. WordPress).
+    - System administration, including migration and consolidation of hosting platforms.
+    - Assist clients with implementation of best development practices, e.g. use of version control.
+    - Advise clients on business strategy.
 
 *   **University of Manchester**
 
@@ -34,11 +38,9 @@ Experience
 
     - Maintained and developed internal infrastructure and software as part of a small team.
     - Provided cover in laboratories for academic staff due to timetable clashes, illness etc.
-    - Provided student-facing support in laboratories and contribute to teaching materials.
+    - Provided student-facing support in laboratories and contributed to teaching materials.
     - Developed testing environments to match production, using Vagrant and VirtualBox.
-    - Built PHP web service to abstract sending email in student exercises, with auditing and rate limiting.
-    - Ported existing Python CGI application over to Flask framework and WSGI.
-    - Integrated multiple support systems and authored CPAN modules: [OTRS::ForwardQueue](https://metacpan.org/pod/OTRS::ForwardQueue) and [WWW::BrokenLinks](https://metacpan.org/pod/WWW::BrokenLinks).
+    - Integrated multiple support systems and authored CPAN module: [OTRS::ForwardQueue](https://metacpan.org/pod/OTRS::ForwardQueue).
 
 *   **Direct Fleet Insurance Services Ltd**
 

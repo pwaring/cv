@@ -47,7 +47,6 @@ Experience
 
     IT Director, October 2010 - November 2013
 
-    - Promoted from Technical Manager to IT Director after 18 months with the company.
     - Formulated and agreed long term strategy as member of the Board, including budgets and financial forecasting.
     - Researched and implemented pension provision for employees in preparation for auto-enrolment.
     - Reduced server-side IT expenditure by 25% as a result of reviewing platform hosting costs, switching providers and consolidating services.

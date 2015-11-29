@@ -30,8 +30,14 @@ Experience
     - Development of bespoke websites and customisation of existing software, primarily using PHP and MySQL.
     - Management and maintenance of client websites, including software updates (e.g. WordPress).
     - System administration, including migration and consolidation of hosting platforms.
-    - Assist clients with implementation of best development practices, e.g. use of version control.
+    - Assist clients with implementation of best development practices, including use of version control and documentation.
     - Advise clients on business strategy.
+
+*   **KAM Tools Limited**
+
+    Director, November 2015 - Present
+
+    - Startup company for key account management software
 
 *   **University of Manchester**
 

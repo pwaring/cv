@@ -33,6 +33,13 @@ Experience
     - Assist clients with implementation of best development practices, including use of version control and documentation.
     - Advise clients on business strategy.
 
+*   **Bolton & District Citizens Advice Bureau**
+
+    Director, December 2015 - Present
+
+    - Elected as a director & trustee of a local Citizens Advice bureau.
+    - Vice chair of the main board and member of the finance committee.
+
 *   **KAM Tools Limited**
 
     Director, November 2015 - Present
@@ -78,13 +85,6 @@ Experience
     - Served as chairman for four years (2008-2012), with responsibility for chairing bi-monthly Council meetings and the AGM.
     - Liaised with a range of corporate sponsors, including Bytemark, Google and Sun Microsystems (now Oracle).
 
-*   **Manchester Environmental Resource Centre Initiative Ltd**
-
-    Director, December 2008 - December 2010
-
-    - Elected as a director & trustee of a local sustainable development charity which runs a number of projects in Manchester.
-    - Focused on improving the finances of the organisation, including working closely with the finance officer and executive director to identify funding and reserve requirements, and potential reductions in expenditure.
-    - Chaired board meetings in rotation with other trustees.
 
 Other activities
 ----------------
@@ -115,5 +115,5 @@ Education
 
     - BSc (Hons) Computer Science (2:1)
 
-**Last updated:** 29th November 2015  
+**Last updated:** 23rd December 2015  
 **Latest version:** [www.pwaring.com/cv](http://www.pwaring.com/cv/)

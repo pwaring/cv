@@ -7,7 +7,7 @@ paul@xk7.net
 Summary
 -------
 
-IT professional with broad range of qualifications up to and including postgraduate level. Experience in public, private and voluntary sectors, including combined eight years of service on several boards. Currently seeking long-term freelance clients and non-executive directorships.
+IT professional with broad range of qualifications up to and including postgraduate level. Experience in public, private and voluntary sectors, including combined nine years of service on several boards. Currently seeking long-term freelance clients and non-executive directorships.
 
 Technical Skills
 ------

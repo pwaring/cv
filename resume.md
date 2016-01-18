@@ -15,7 +15,7 @@ Technical Skills
 *   **Computer Languages:** Proficient with PHP and SQL. Familiar with C, Java and Perl.
 *   **Web Development:** Proficient with HTML and XML. Familiar with CSS and jQuery.
 *   **Operating Systems:** Proficient with Linux, particularly Debian and Ubuntu.
-*   **Server Software:** Proficient with Apache, MySQL and Postfix.
+*   **Server Software:** Proficient with Apache, MySQL and Postfix. Familiar with Dovecot.
 *   **Version Control:** Familiar with Git and Subversion.
 *   **Virtualisation:** Familiar with Vagrant and VirtualBox.
 *   **Configuration Management:** Familiar with Ansible.
@@ -44,7 +44,7 @@ Experience
 
     Director, November 2015 - Present
 
-    - Startup company for key account management software
+    - Startup company for key account management software, written in Java.
 
 *   **University of Manchester**
 
@@ -115,5 +115,5 @@ Education
 
     - BSc (Hons) Computer Science (2:1)
 
-**Last updated:** 23rd December 2015  
+**Last updated:** 18th January 2016  
 **Latest version:** [www.pwaring.com/cv](http://www.pwaring.com/cv/)

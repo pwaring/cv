@@ -25,7 +25,7 @@ Experience
 
 *   **Self Employment**
 
-    Freelance Consultant, July 2015 - Present
+    Freelance Developer and System Administrator, July 2015 - Present
 
     - Development of bespoke websites and customisation of existing software, primarily using PHP and MySQL.
     - Management and maintenance of client websites, including software updates (e.g. WordPress).

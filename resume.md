@@ -32,6 +32,7 @@ Experience
     - System administration, including migration and consolidation of hosting platforms.
     - Assist clients with implementation of best development practices, including use of version control and documentation.
     - Advise clients on business strategy.
+    - Deliver training on version control (Git) and configuration management (Ansible).
 
 *   **Bolton & District Citizens Advice Bureau**
 

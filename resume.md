@@ -44,7 +44,7 @@ Experience
 
     Director, November 2015 - Present
 
-    - Startup company for key account management software, written in Java.
+    - Startup company for key account management software.
 
 *   **University of Manchester**
 

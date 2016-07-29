@@ -118,4 +118,4 @@ Education
     - BSc (Hons) Computer Science (2:1)
 
 **Last updated:** 29th July 2016  
-**Latest version:** [www.pwaring.com/cv](http://www.pwaring.com/cv/)
+**Latest version:** [www.pwaring.com/cv](https://www.pwaring.com/cv/)

@@ -16,7 +16,7 @@ Technical Skills
 *   **Web Development:** Proficient with HTML and XML. Familiar with CSS and jQuery.
 *   **Operating Systems:** Proficient with Linux, particularly Debian and Ubuntu.
 *   **Server Software:** Proficient with Apache, MySQL and Postfix. Familiar with Dovecot.
-*   **Version Control:** Familiar with Git and Subversion.
+*   **Version Control:** Proficient with Git. Familiar with Subversion.
 *   **Virtualisation:** Familiar with Vagrant and VirtualBox.
 *   **Configuration Management:** Familiar with Ansible.
 

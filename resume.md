@@ -90,9 +90,9 @@ Experience
 Other activities
 ----------------
 
+* Committee member, Manchester Classical Association, April 2016 - Present.
 * Newsletter Editor, FLOSS UK, August 2014 - May 2016.
 * Lead organiser of a monthly walking group, May 2012 – Present.
-* Committee member, Manchester Classical Association, April 2016 - Present.
 * Treasurer, Manchester Classical Association, July 2012 – April 2016.
 * Webmaster, Manchester Classical Association, November 2007 - Present.
 
@@ -117,5 +117,5 @@ Education
 
     - BSc (Hons) Computer Science (2:1)
 
-**Last updated:** 19th May 2016  
+**Last updated:** 29th July 2016  
 **Latest version:** [www.pwaring.com/cv](http://www.pwaring.com/cv/)

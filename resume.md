@@ -16,7 +16,7 @@ Technical Skills
 *   **Web Development:** Proficient with HTML and XML. Familiar with CSS and jQuery.
 *   **Operating Systems:** Proficient with Linux, particularly Debian and Ubuntu.
 *   **Server Software:** Proficient with Apache, MySQL and Postfix. Familiar with Dovecot.
-*   **Version Control:** Proficient with Git. Familiar with Subversion.
+*   **Version Control:** Familiar with Git and Subversion.
 *   **Virtualisation:** Familiar with Vagrant and VirtualBox.
 *   **Configuration Management:** Familiar with Ansible.
 
@@ -91,8 +91,9 @@ Other activities
 ----------------
 
 * Committee member, Manchester Classical Association, April 2016 - Present.
-* Newsletter Editor, FLOSS UK, August 2014 - May 2016.
+* Treasurer, Manchester Friends of the Earth, November 2015 - Present.
 * Lead organiser of a monthly walking group, May 2012 – Present.
+* Newsletter Editor, FLOSS UK, August 2014 - May 2016.
 * Treasurer, Manchester Classical Association, July 2012 – April 2016.
 * Webmaster, Manchester Classical Association, November 2007 - Present.
 
@@ -117,5 +118,5 @@ Education
 
     - BSc (Hons) Computer Science (2:1)
 
-**Last updated:** 29th July 2016  
-**Latest version:** [www.pwaring.com/cv](https://www.pwaring.com/cv/)
+**Last updated:** 11th August 2016  
+**Latest version:** [www.pwaring.com/cv](http://www.pwaring.com/cv/)

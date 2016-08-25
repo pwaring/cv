@@ -4,7 +4,7 @@ PDFS=$(SRC:.md=.pdf)
 HTML=$(SRC:.md=.html)
 TEX=$(SRC:.md=.tex)
 
-all:    clean $(PDFS) $(HTML) $(DOC) $(DOCX) $(TEX)
+all:    clean $(PDFS) $(HTML) $(TEX)
 
 pdf:   clean $(PDFS)
 html:  clean $(HTML)

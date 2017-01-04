@@ -106,6 +106,3 @@ Education
     September 2003 - June 2006
 
     - BSc (Hons) Computer Science (2:1)
-
-**Last updated:** 25th August 2016  
-**Latest version:** [www.pwaring.com/cv](http://www.pwaring.com/cv/)

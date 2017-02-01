@@ -7,13 +7,13 @@ Paul Waring
 Summary
 -------
 
-IT professional with broad range of qualifications up to and including postgraduate level. Experience in public, private and voluntary sectors, including combined ten years of service on several boards. Currently seeking long-term freelance clients and non-executive directorships.
+IT professional with broad range of qualifications up to and including postgraduate level. Experience in public, private and voluntary sectors, including service on several boards. Currently seeking long-term freelance clients and non-executive directorships.
 
 Technical Skills
 ------
 
 *   **Computer Languages:** Proficient with PHP and SQL. Familiar with C, Java and Perl.
-*   **Web Development:** Proficient with HTML and XML. Familiar with CSS and jQuery.
+*   **Web Development:** Proficient with HTML and XML. Familiar with CSS, JavaScript and jQuery.
 *   **Operating Systems:** Proficient with Linux, particularly Debian and Ubuntu.
 *   **Server Software:** Proficient with Apache, MySQL and Postfix. Familiar with Dovecot.
 *   **Version Control:** Familiar with Git and Subversion.

@@ -36,16 +36,17 @@ Experience
 
 *   **Bolton & District Citizens Advice Bureau**
 
-    Director, December 2015 - Present
+    Director & Trustee, December 2015 - Present
 
     - Elected as a director & trustee of a local Citizens Advice bureau.
     - Vice chair of the main board and member of the finance committee.
+    - Member of national Trustee Development Group.
 
 *   **KAM Tools Limited**
 
     Director, November 2015 - Present
 
-    - Startup company for key account management software.
+    - Startup company for key account management software, using PHP and jQuery.
 
 *   **University of Manchester**
 

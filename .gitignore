@@ -5,7 +5,6 @@
 *.doc
 *.docx
 *.html
-*.css
 resume.tex
 old-positions.tex
 README.tex

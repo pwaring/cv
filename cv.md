@@ -12,13 +12,13 @@ IT professional with broad range of qualifications up to and including postgradu
 Technical Skills
 ------
 
-*   **Computer Languages:** Proficient with PHP and SQL. Familiar with C, Java and Perl.
+*   **Computer Languages:** Proficient with PHP and SQL. Familiar with C, Python and Perl.
 *   **Web Development:** Proficient with HTML and XML. Familiar with CSS, JavaScript and jQuery.
 *   **Operating Systems:** Proficient with Linux, particularly Debian and Ubuntu.
 *   **Server Software:** Proficient with Apache, MySQL and Postfix. Familiar with Dovecot.
-*   **Version Control:** Familiar with Git and Subversion.
+*   **Version Control:** Proficient with Git. Familiar with Subversion.
 *   **Virtualisation:** Familiar with Vagrant and VirtualBox.
-*   **Configuration Management:** Familiar with Ansible.
+*   **Configuration Management:** Proficient with Ansible.
 
 Experience
 ----------
@@ -30,8 +30,7 @@ Experience
     - Development of bespoke websites and customisation of existing software, primarily using PHP and MySQL.
     - Management and maintenance of client websites, including software updates (e.g. WordPress).
     - System administration, including migration and consolidation of hosting platforms.
-    - Assist clients with implementation of best development practices, including use of version control and documentation.
-    - Advise clients on business strategy.
+    - Assist clients with implementation of best development practices, including documentation, version control and automatic deployment.
     - Deliver training on version control (Git) and configuration management (Ansible).
 
 *   **Bolton & District Citizens Advice Bureau**
@@ -62,7 +61,7 @@ Experience
 
     IT Director, October 2010 - November 2013
 
-    - Formulated and agreed long term strategy as member of the Board, including budgets and financial forecasting.
+    - Formulated long term strategy as member of the Board, including budgets and financial forecasting.
     - Researched and implemented pension provision for employees in preparation for auto-enrolment.
     - Reduced server-side IT expenditure by 25% as a result of reviewing platform hosting costs, switching providers and consolidating services.
     - Held Financial Conduct Authority approved person status for the duration of this role.
@@ -71,7 +70,7 @@ Experience
 
     Technical Manager, March 2009 - November 2013
 
-    - Maintained and developed online wholesale insurance trading platform, written in PHP and Perl with MySQL for data storage.
+    - Maintained and developed online wholesale insurance trading platform, written in PHP with MySQL for data storage.
     - Developed integrated and automated invoicing and credit control system, handling over £30m of annual premiums.
     - Automated a wide range of repetitive tasks, including production of Excel reports, eliminating re-keying errors and reducing turnaround time.
     - Built two new insurance products from scratch: commercial combined and automated breakdown quotations. Managed the full process from initial meetings with suppliers through to implementation, reviewing contracts and launch within agreed deadlines.
@@ -93,9 +92,9 @@ Other activities
 
 * Committee member, Manchester Classical Association, April 2016 - Present.
 * Treasurer, Manchester Friends of the Earth, November 2015 - Present.
-* Lead organiser of a monthly walking group, May 2012 – Present.
+* Founder and lead organiser of a monthly walking group, May 2012 – Present.
 * Newsletter Editor, FLOSS UK, August 2014 - May 2016.
-* Treasurer, Manchester Classical Association, July 2012 – April 2016.
+* Treasurer, Manchester Classical Association, July 2012 - April 2016 & December 2016 - Present.
 * Webmaster, Manchester Classical Association, November 2007 - Present.
 
 Education
@@ -119,5 +118,5 @@ Education
 
     - BSc (Hons) Computer Science (2:1)
 
-**Last updated:** 15th February 2017  
+**Last updated:** 7th May 2017  
 **Latest version:** [www.pwaring.com/cv](http://www.pwaring.com/cv/)

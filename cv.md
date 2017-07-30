@@ -25,7 +25,7 @@ Experience
 
 *   **Self Employment**
 
-    Freelance Developer and System Administrator, July 2015 - Present
+    Freelance PHP Developer and Linux System Administrator, July 2015 - Present
 
     - Development of bespoke websites and customisation of existing software, primarily using PHP and MySQL.
     - Management and maintenance of client websites, including software updates (e.g. WordPress).
@@ -37,7 +37,6 @@ Experience
 
     Director & Trustee, December 2015 - Present
 
-    - Elected as a director & trustee of a local Citizens Advice bureau.
     - Vice chair of the main board and member of the finance committee.
     - Member of national Trustee Development Group.
 
@@ -45,7 +44,7 @@ Experience
 
     Director, November 2015 - Present
 
-    - Startup company for key account management software, using PHP and jQuery.
+    - Startup company for key account management software, using PHP, jQuery and SQLite.
 
 *   **University of Manchester**
 
@@ -94,7 +93,7 @@ Other activities
 * Treasurer, Manchester Friends of the Earth, November 2015 - Present.
 * Founder and lead organiser of a monthly walking group, May 2012 – Present.
 * Newsletter Editor, FLOSS UK, August 2014 - May 2016.
-* Treasurer, Manchester Classical Association, July 2012 - April 2016 & December 2016 - Present.
+* Treasurer, Manchester Classical Association, July 2012 - April 2016 & December 2016 - June 2017.
 * Webmaster, Manchester Classical Association, November 2007 - Present.
 
 Education
@@ -118,5 +117,5 @@ Education
 
     - BSc (Hons) Computer Science (2:1)
 
-**Last updated:** 7th May 2017  
+**Last updated:** 30th July 2017  
 **Latest version:** [www.pwaring.com/cv](http://www.pwaring.com/cv/)

@@ -15,7 +15,7 @@ Technical Skills
 *   **Computer Languages:** Proficient with PHP and SQL. Familiar with C, Python and Perl.
 *   **Web Development:** Proficient with HTML and XML. Familiar with CSS, JavaScript and jQuery.
 *   **Operating Systems:** Proficient with Linux, particularly Debian and Ubuntu.
-*   **Server Software:** Proficient with Apache, MySQL and Postfix. Familiar with Dovecot.
+*   **Server Software:** Proficient with Apache, MySQL/MariaDB and Postfix. Familiar with Dovecot.
 *   **Version Control:** Proficient with Git. Familiar with Subversion.
 *   **Virtualisation:** Familiar with Vagrant and VirtualBox.
 *   **Configuration Management:** Proficient with Ansible.

@@ -15,7 +15,7 @@ Technical Skills
 *   **Computer Languages:** Proficient with PHP and SQL. Familiar with C, Python and Perl.
 *   **Web Development:** Proficient with HTML and XML. Familiar with CSS, JavaScript and jQuery.
 *   **Operating Systems:** Proficient with Linux, particularly Debian and Ubuntu.
-*   **Server Software:** Proficient with Apache, MySQL/MariaDB and Postfix. Familiar with Dovecot.
+*   **Server Software:** Proficient with Apache and MySQL/MariaDB. Familiar with nginx.
 *   **Version Control:** Proficient with Git. Familiar with Subversion.
 *   **Virtualisation:** Familiar with Vagrant and VirtualBox.
 *   **Configuration Management:** Proficient with Ansible.
@@ -117,5 +117,5 @@ Education
 
     - BSc (Hons) Computer Science (2:1)
 
-**Last updated:** 30th July 2017  
+**Last updated:** 25th October 2017  
 **Latest version:** [www.pwaring.com/cv](http://www.pwaring.com/cv/)

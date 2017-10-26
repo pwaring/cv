@@ -29,7 +29,7 @@ Experience
 
     - Development of bespoke websites and customisation of existing software, primarily using PHP and MySQL.
     - Management and maintenance of client websites, including software updates (e.g. WordPress).
-    - System administration, including migration and consolidation of hosting platforms.
+    - System administration (Debian and Ubuntu), including migration and consolidation of hosting platforms.
     - Assist clients with implementation of best development practices, including documentation, version control and automatic deployment.
     - Deliver training on version control (Git) and configuration management (Ansible).
 

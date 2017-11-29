@@ -40,12 +40,6 @@ Experience
     - Vice chair of the main board and member of the finance committee.
     - Member of national Trustee Development Group.
 
-*   **KAM Tools Limited**
-
-    Director, November 2015 - Present
-
-    - Startup company for key account management software, using PHP, jQuery and SQLite.
-
 *   **University of Manchester**
 
     Software Support Officer, December 2013 - June 2015

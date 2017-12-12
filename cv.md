@@ -46,7 +46,7 @@ Experience
 
     - Maintained and developed internal infrastructure and software as part of a small team.
     - Provided cover in laboratories for academic staff due to timetable clashes, illness etc.
-    - Provided student-facing support in laboratories and contributed to teaching materials.
+    - Provided student-facing support and contributed to teaching materials.
     - Developed testing environments to match production, using Vagrant and VirtualBox.
     - Integrated multiple support systems and authored CPAN module: [OTRS::ForwardQueue](https://metacpan.org/pod/OTRS::ForwardQueue).
 

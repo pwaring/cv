@@ -15,7 +15,7 @@ Technical Skills
 *   **Computer Languages:** Proficient with PHP and SQL. Familiar with C, Python and Perl.
 *   **Web Development:** Proficient with HTML and XML. Familiar with CSS, JavaScript and jQuery.
 *   **Operating Systems:** Proficient with Linux, particularly Debian and Ubuntu.
-*   **Server Software:** Proficient with Apache and MySQL/MariaDB. Familiar with nginx.
+*   **Server Software:** Proficient with Apache and MySQL/MariaDB/Percona. Familiar with nginx.
 *   **Version Control:** Proficient with Git. Familiar with Subversion.
 *   **Virtualisation:** Familiar with Vagrant and VirtualBox.
 *   **Configuration Management:** Proficient with Ansible.
@@ -27,7 +27,7 @@ Experience
 
     Freelance PHP Developer and Linux System Administrator, July 2015 - Present
 
-    - Development of bespoke websites and customisation of existing software, primarily using PHP and MySQL.
+    - Development of bespoke websites and customisation of existing software, primarily using PHP and MySQL/MariaDB/Percona.
     - Management and maintenance of client websites, including software updates (e.g. WordPress).
     - System administration (Debian and Ubuntu), including migration and consolidation of hosting platforms.
     - Assist clients with implementation of best development practices, including documentation, version control and automatic deployment.
@@ -63,7 +63,7 @@ Experience
 
     Technical Manager, March 2009 - November 2013
 
-    - Maintained and developed online wholesale insurance trading platform, written in PHP with MySQL for data storage.
+    - Maintained and developed online wholesale insurance trading platform, written in PHP with MySQL/Percona for data storage.
     - Developed integrated and automated invoicing and credit control system, handling over £30m of annual premiums.
     - Automated a wide range of repetitive tasks, including production of Excel reports, eliminating re-keying errors and reducing turnaround time.
     - Built two new insurance products from scratch: commercial combined and automated breakdown quotations. Managed the full process from initial meetings with suppliers through to implementation, reviewing contracts and launch within agreed deadlines.

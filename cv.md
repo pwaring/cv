@@ -2,7 +2,7 @@ Paul Waring
 ===========
 
 07754 725 493
-[paul@xk7.net](mailto:paul@xk7.net)
+[paul@phpdeveloper.org.uk](mailto:paul@phpdeveloper.org.uk)
 
 Summary
 -------

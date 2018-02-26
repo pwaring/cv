@@ -28,9 +28,8 @@ Experience
     Freelance PHP Developer and Linux System Administrator, July 2015 - Present
 
     - Development of bespoke websites and customisation of existing software, primarily using PHP and MySQL/MariaDB/Percona.
-    - Management and maintenance of client websites, including software updates (e.g. WordPress).
     - System administration (Debian and Ubuntu), including migration and consolidation of hosting platforms.
-    - Assist clients with implementation of best development practices, including documentation, version control and automatic deployment.
+    - Assist clients with implementation of best development practices, including documentation, version control, configuration management and automatic deployment.
     - Deliver training on version control (Git) and configuration management (Ansible).
 
 *   **Bolton & District Citizens Advice Bureau**
@@ -39,6 +38,7 @@ Experience
 
     - Vice chair of the main board and member of the finance committee.
     - Member of national Trustee Development Group.
+    - Representative and trustee on board of Citizens Advice Greater Manchester.
 
 *   **University of Manchester**
 
@@ -48,6 +48,7 @@ Experience
     - Provided cover in laboratories for academic staff due to timetable clashes, illness etc.
     - Provided student-facing support and contributed to teaching materials.
     - Developed testing environments to match production, using Vagrant and VirtualBox.
+    - Virtualised existing physical infrastructure to improve reliability and reduce recovery times.
     - Integrated multiple support systems and authored CPAN module: [OTRS::ForwardQueue](https://metacpan.org/pod/OTRS::ForwardQueue).
 
 *   **Direct Fleet Insurance Services Ltd**

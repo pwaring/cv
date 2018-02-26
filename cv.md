@@ -7,7 +7,7 @@ Paul Waring
 Summary
 -------
 
-IT professional with broad range of qualifications up to and including postgraduate level. Experience in public, private and voluntary sectors, including service on several boards. Currently seeking long-term freelance clients and non-executive directorships.
+Freelance PHP developer and Linux system administrator with broad range of qualifications up to and including postgraduate level. Experience in public, private and voluntary sectors, including service on several boards. Currently seeking long-term freelance clients and non-executive directorships.
 
 Technical Skills
 ------

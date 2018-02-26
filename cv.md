@@ -85,7 +85,7 @@ Other activities
 
 * Committee member, Manchester Classical Association, April 2016 - Present.
 * Treasurer, Manchester Friends of the Earth, November 2015 - February 2018.
-* Founder and lead organiser of a monthly walking group, May 2012 – Present.
+* Founder and lead organiser of a monthly walking group, May 2012 - Present.
 * Newsletter Editor, FLOSS UK, August 2014 - May 2016.
 * Treasurer, Manchester Classical Association, July 2012 - April 2016 & December 2016 - June 2017.
 * Webmaster, Manchester Classical Association, November 2007 - Present.

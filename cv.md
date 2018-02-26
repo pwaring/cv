@@ -55,7 +55,7 @@ Experience
     IT Director, October 2010 - November 2013
 
     - Formulated long term strategy as member of the Board, including budgets and financial forecasting.
-    - Researched and implemented pension provision for employees in preparation for auto-enrolment.
+    - Researched pension provision for employees in preparation for auto-enrolment.
     - Reduced server-side IT expenditure by 25% as a result of reviewing platform hosting costs, switching providers and consolidating services.
     - Held Financial Conduct Authority approved person status for the duration of this role.
 
@@ -64,7 +64,7 @@ Experience
     Technical Manager, March 2009 - November 2013
 
     - Maintained and developed online wholesale insurance trading platform, written in PHP with MySQL/Percona for data storage.
-    - Developed integrated and automated invoicing and credit control system, handling over £30m of annual premiums.
+    - Developed automated invoicing and credit control system, handling over £30m of annual premiums.
     - Automated a wide range of repetitive tasks, including production of Excel reports, eliminating re-keying errors and reducing turnaround time.
     - Built two new insurance products from scratch: commercial combined and automated breakdown quotations. Managed the full process from initial meetings with suppliers through to implementation, reviewing contracts and launch within agreed deadlines.
     - Translated underwriting criteria into an XML web service with a REST API, providing 10,000 quotes per month for a salary sacrifice scheme used by over twenty medium and large UK companies.

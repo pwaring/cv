@@ -37,7 +37,6 @@ Experience
     Director & Trustee, December 2015 - Present
 
     - Vice chair of the main board and member of the finance committee.
-    - Member of national Trustee Development Group.
     - Representative and trustee on board of Citizens Advice Greater Manchester.
 
 *   **University of Manchester**
@@ -112,5 +111,5 @@ Education
 
     - BSc (Hons) Computer Science (2:1)
 
-**Last updated:** 12th December 2017  
-**Latest version:** [www.pwaring.com/cv](https://www.pwaring.com/cv/)
+**Last updated:** 22nd May 2018  
+**Latest version:** [www.phpdeveloper.org.uk/cv](https://www.phpdeveloper.org.uk/cv/)

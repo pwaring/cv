@@ -37,7 +37,7 @@ Experience
     Director & Trustee, December 2015 - Present
 
     - Vice chair of the main board and member of the finance committee.
-    - Representative and trustee on board of Citizens Advice Greater Manchester.
+    - Member of national Trustee Development Group.
 
 *   **University of Manchester**
 

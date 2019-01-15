@@ -13,7 +13,7 @@ Technical Skills
 ------
 
 *   **Computer Languages:** Proficient with PHP and SQL. Familiar with C, Python and Perl.
-*   **Web Development:** Proficient with HTML and XML. Familiar with CSS, JavaScript and jQuery.
+*   **Web Development:** Proficient with HTML. Familiar with CSS, JavaScript and jQuery.
 *   **Operating Systems:** Proficient with Linux, particularly Debian and Ubuntu.
 *   **Server Software:** Proficient with Apache and MySQL/MariaDB/Percona. Familiar with nginx.
 *   **Version Control:** Proficient with Git. Familiar with Subversion.
@@ -34,10 +34,11 @@ Experience
 
 *   **Bolton & District Citizens Advice Bureau**
 
-    Director & Trustee, December 2015 - Present
+    Director & Trustee, December 2015 - November 2018
 
     - Vice chair of the main board and member of the finance committee.
     - Member of national Trustee Development Group.
+    - Representative on the board of Citizens Advice Greater Manchester.
 
 *   **University of Manchester**
 
@@ -111,5 +112,5 @@ Education
 
     - BSc (Hons) Computer Science (2:1)
 
-**Last updated:** 22nd May 2018  
+**Last updated:** 26th November 2018  
 **Latest version:** [www.phpdeveloper.org.uk/cv](https://www.phpdeveloper.org.uk/cv/)

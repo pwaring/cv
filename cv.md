@@ -7,15 +7,16 @@ Paul Waring
 Summary
 -------
 
-Freelance PHP developer and Linux system administrator with broad range of qualifications up to and including postgraduate level. Experience in public, private and voluntary sectors, including service on several boards. Currently seeking long-term freelance clients and non-executive directorships.
+Freelance PHP developer and Linux system administrator based in Manchester, UK, with broad range of qualifications up to and including postgraduate level. Experience in public, private and voluntary sectors, including service on several boards.
 
 Technical Skills
 ------
 
 *   **Computer Languages:** Proficient with PHP and SQL. Familiar with C, Python and Perl.
 *   **Web Development:** Proficient with HTML. Familiar with CSS, JavaScript and jQuery.
+*   **Frameworks:** Familiar with Laravel.
 *   **Operating Systems:** Proficient with Linux, particularly Debian and Ubuntu.
-*   **Server Software:** Proficient with Apache and MySQL/MariaDB/Percona. Familiar with nginx.
+*   **Server Software:** Proficient with Apache, Nginx and MySQL/MariaDB/Percona.
 *   **Version Control:** Proficient with Git. Familiar with Subversion.
 *   **Virtualisation:** Familiar with Vagrant and VirtualBox.
 *   **Configuration Management:** Proficient with Ansible.
@@ -27,9 +28,9 @@ Experience
 
     Freelance PHP Developer and Linux System Administrator, July 2015 - Present
 
-    - Development of bespoke websites and customisation of existing software, primarily using PHP and MySQL/MariaDB/Percona.
+    - Development and maintenance of bespoke websites and customisation of existing software, primarily using PHP and MySQL/MariaDB/Percona.
     - System administration (Debian and Ubuntu), including migration and consolidation of hosting platforms.
-    - Assist clients with implementation of best development practices, including documentation, version control, configuration management and automatic deployment.
+    - Assist clients with implementation of best practices, including documentation, version control, configuration management, automatic deployment, disaster recovery and risk planning.
     - Deliver training on version control (Git) and configuration management (Ansible).
 
 *   **Bolton & District Citizens Advice Bureau**
@@ -64,12 +65,12 @@ Experience
 
     Technical Manager, March 2009 - November 2013
 
-    - Maintained and developed online wholesale insurance trading platform, written in PHP with MySQL/Percona for data storage.
-    - Developed automated invoicing and credit control system, handling over £30m of annual premiums.
+    - Developed online wholesale insurance trading platform, written in PHP with MySQL/Percona for data storage.
+    - Designed and built automated invoicing and credit control system, handling over £30m of annual premiums.
     - Automated a wide range of repetitive tasks, including production of Excel reports, eliminating re-keying errors and reducing turnaround time.
     - Built two new insurance products from scratch: commercial combined and automated breakdown quotations. Managed the full process from initial meetings with suppliers through to implementation, reviewing contracts and launch within agreed deadlines.
     - Translated underwriting criteria into an XML web service with a REST API, providing 10,000 quotes per month for a salary sacrifice scheme used by over twenty medium and large UK companies.
-    - Worked with a wide range of external partners, including major UK insurers, Experian and the Motor Insurers' Bureau.
+    - Worked with a wide range of external partners, including UK insurers, Experian and the Motor Insurers' Bureau.
 
 *   **UKUUG Ltd**
 
@@ -78,8 +79,17 @@ Experience
 
     - Organised annual conferences with other volunteers; lead organiser and conference chair for 2009, 2010 and 2011.
     - Served as chairman for four years (2008-2012), with responsibility for chairing bi-monthly Council meetings and the AGM.
-    - Liaised with a range of corporate sponsors, including Bytemark, Google and Sun Microsystems (now Oracle).
+    - Liaised with a range of corporate sponsors, including Google and Sun Microsystems (now Oracle).
 
+*   **Manchester Environmental Resource Centre Initiative Ltd**
+
+    Director & Trustee, December 2008 - December 2010
+
+    - Elected as a trustee for a local sustainable development charity running a number of projects in Manchester.
+
+    - Focused on improving the finances of the organisation, including working closely with the finance officer and executive director to identify funding requirements and reductions in expenditure.
+
+    - Chaired board meetings in rotation with other trustees.
 
 Other activities
 ----------------
@@ -89,6 +99,7 @@ Other activities
 * Founder and lead organiser of a monthly walking group, May 2012 - Present.
 * Newsletter Editor, FLOSS UK, August 2014 - May 2016.
 * Treasurer, Manchester Classical Association, July 2012 - April 2016 & December 2016 - June 2017.
+* Director & Trustee, MERCi, December 2008 - December 2010.
 * Webmaster, Manchester Classical Association, November 2007 - Present.
 
 Education
@@ -112,5 +123,5 @@ Education
 
     - BSc (Hons) Computer Science (2:1)
 
-**Last updated:** 26th November 2018  
+**Last updated:** 24th June 2019  
 **Latest version:** [www.phpdeveloper.org.uk/cv](https://www.phpdeveloper.org.uk/cv/)

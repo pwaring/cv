@@ -24,12 +24,12 @@ Technical Skills
 Experience
 ----------
 
-*   **Self Employment**
+*   **phpdev.uk**
 
     Freelance PHP Developer and Linux System Administrator, July 2015 - Present
 
     - Development and maintenance of bespoke websites and customisation of existing software, primarily using PHP and MySQL/MariaDB/Percona.
-    - System administration (Debian and Ubuntu), including migration and consolidation of hosting platforms.
+    - System administration (Debian and Ubuntu), including migration and consolidation of hosting platforms, diagnosing and fixing of email issues and security improvements.
     - Assist clients with implementation of best practices, including documentation, version control, configuration management, automatic deployment, disaster recovery and risk planning.
     - Deliver training on version control (Git) and configuration management (Ansible).
 
@@ -38,8 +38,9 @@ Experience
     Director & Trustee, December 2015 - November 2018
 
     - Vice chair of the main board and member of the finance committee.
-    - Member of national Trustee Development Group.
-    - Representative on the board of Citizens Advice Greater Manchester.
+    - Contributed to national support for trustees via Trustee Development Group.
+    - Represented the organisation on the board of Citizens Advice Greater Manchester.
+    - Focused on improving the finances of the organisation, including working closely with the finance officer and other management staff.
 
 *   **University of Manchester**
 
@@ -68,7 +69,7 @@ Experience
     - Developed online wholesale insurance trading platform, written in PHP with MySQL/Percona for data storage.
     - Designed and built automated invoicing and credit control system, handling over £30m of annual premiums.
     - Automated a wide range of repetitive tasks, including production of Excel reports, eliminating re-keying errors and reducing turnaround time.
-    - Built two new insurance products from scratch: commercial combined and automated breakdown quotations. Managed the full process from initial meetings with suppliers through to implementation, reviewing contracts and launch within agreed deadlines.
+    - Built two new insurance products from scratch: commercial combined and automated breakdown quotations. Managed the full process from initial meetings with suppliers through to implementation, reviewing contracts, and launch within agreed deadlines.
     - Translated underwriting criteria into an XML web service with a REST API, providing 10,000 quotes per month for a salary sacrifice scheme used by over twenty medium and large UK companies.
     - Worked with a wide range of external partners, including UK insurers, Experian and the Motor Insurers' Bureau.
 
@@ -80,16 +81,6 @@ Experience
     - Organised annual conferences with other volunteers; lead organiser and conference chair for 2009, 2010 and 2011.
     - Served as chairman for four years (2008-2012), with responsibility for chairing bi-monthly Council meetings and the AGM.
     - Liaised with a range of corporate sponsors, including Google and Sun Microsystems (now Oracle).
-
-*   **Manchester Environmental Resource Centre Initiative Ltd**
-
-    Director & Trustee, December 2008 - December 2010
-
-    - Elected as a trustee for a local sustainable development charity running a number of projects in Manchester.
-
-    - Focused on improving the finances of the organisation, including working closely with the finance officer and executive director to identify funding requirements and reductions in expenditure.
-
-    - Chaired board meetings in rotation with other trustees.
 
 Other activities
 ----------------
@@ -123,5 +114,5 @@ Education
 
     - BSc (Hons) Computer Science (2:1)
 
-**Last updated:** 24th June 2019  
-**Latest version:** [www.phpdeveloper.org.uk/cv](https://www.phpdeveloper.org.uk/cv/)
+**Last updated:** 31st March 2020  
+**Latest version:** [phpdev.uk/cv](https://www.phpdev.uk/cv)

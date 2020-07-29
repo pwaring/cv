@@ -29,3 +29,10 @@
     - Elected as a director & trustee of a local sustainable development charity which runs a number of projects in Manchester.
     - Focused on improving the finances of the organisation, including working closely with the finance officer and executive director to identify funding and reserve requirements, and potential reductions in expenditure.
     - Chaired board meetings in rotation with other trustees.
+    
+Director and Company Secretary, Manchester Friends of the Earth Limited, July 2008 – May 2009.
+Committee Member, Association for History and Computing UK, October 2007 – ?
+Council member, UK Unix Users Group (UKUUG), September 2007 – ?.
+Joint Coordinator, Manchester Friends of the Earth, December 2006 – April 2009.
+Chairman, University of Manchester Computer Society, September 2004 – September 2005.
+System Administrator, University of Manchester Computer Society, June 2004 – September 2005.

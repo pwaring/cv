@@ -7,7 +7,7 @@ Paul Waring
 Summary
 -------
 
-Freelance PHP developer and Linux system administrator based in Manchester, UK, with broad range of qualifications up to and including postgraduate level. Experience in public, private and voluntary sectors, including service on several boards.
+Freelance PHP developer and Linux system administrator based in Manchester, UK, with broad range of qualifications up to and including postgraduate level. Experience in public, private, and voluntary sectors, including service on several boards.
 
 Technical Skills
 ------

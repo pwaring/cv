@@ -7,14 +7,14 @@ Paul Waring
 Summary
 -------
 
-Freelance PHP developer and Linux system administrator based in Manchester, UK, with broad range of qualifications up to and including postgraduate level. Experience in public, private, and voluntary sectors, including service on several boards.
+Freelance PHP developer and Linux system administrator based in Manchester, UK, with broad range of qualifications up to and including postgraduate level. Experience in public, private and voluntary sectors, including service on several boards.
 
 Technical Skills
 ------
 
-*   **Computer Languages:** Proficient with PHP and SQL. Familiar with C, Python and Perl.
-*   **Web Development:** Proficient with HTML. Familiar with CSS, JavaScript and jQuery.
-*   **Frameworks:** Familiar with Laravel.
+*   **Computer Languages:** Proficient with PHP and SQL.
+*   **Web Development:** Proficient with HTML and JavaScript. Familiar with CSS and jQuery.
+*   **Frameworks and Libraries:** Familiar with Laravel, Bootstrap and Bulma.
 *   **Operating Systems:** Proficient with Linux, particularly Debian and Ubuntu.
 *   **Server Software:** Proficient with Apache, Nginx and MySQL/MariaDB/Percona.
 *   **Version Control:** Proficient with Git. Familiar with Subversion.
@@ -59,7 +59,7 @@ Experience
 
     - Formulated long term strategy as member of the Board, including budgets and financial forecasting.
     - Researched pension provision for employees in preparation for auto-enrolment.
-    - Reduced server-side IT expenditure by 25% as a result of reviewing platform hosting costs, switching providers and consolidating services.
+    - Reduced server-side IT expenditure by 25% as a result of reviewing hosting costs, switching providers and consolidating services.
     - Held Financial Conduct Authority approved person status for the duration of this role.
 
 *   **Direct Fleet Insurance Services Ltd**
@@ -90,8 +90,11 @@ Other activities
 * Founder and lead organiser of a monthly walking group, May 2012 - Present.
 * Newsletter Editor, FLOSS UK, August 2014 - May 2016.
 * Treasurer, Manchester Classical Association, July 2012 - April 2016 & December 2016 - June 2017.
-* Director & Trustee, MERCi, December 2008 - December 2010.
+* Director & Trustee, Manchester Environmental Resource Centre Initiative Ltd, December 2008 - December 2010.
 * Webmaster, Manchester Classical Association, November 2007 - Present.
+* Committee Member, Association for History and Computing UK, October 2007 - October 2010.
+* Joint Co-ordinator, Manchester Friends of the Earth, December 2006 - April 2009.
+* Chairman, University of Manchester Computer Society, September 2004 - September 2005.
 
 Education
 ---------
@@ -114,5 +117,5 @@ Education
 
     - BSc (Hons) Computer Science (2:1)
 
-**Last updated:** 31st March 2020  
+**Last updated:** 7th August 2020  
 **Latest version:** [phpdev.uk/cv](https://www.phpdev.uk/cv)

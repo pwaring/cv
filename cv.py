@@ -81,7 +81,8 @@ def tex(lines, contact_lines, *args):
             ([^{}\n\r]*)
         """ % pattern
 
-        repl = re.sub(r"\\(\d)", lambda m: r"\%d" % (int(m.group(1)) + 2), repl)
+        repl = re.sub(r"\\(\d)",
+                      lambda m: r"\%d" % (int(m.group(1)) + 2), repl)
 
         return re.sub(pattern, r"\1\2%s\%d" % (repl, num_groups + 3), string,
                       flags=flags, **kwargs)
@@ -90,9 +91,10 @@ def tex(lines, contact_lines, *args):
     # just going to hardcode the two most common link formats for now so people
     # can put links in their contact info
     def replace_links(line):
-        line = re.sub(r"<([^:]+@[^:]+?)>", r"\href{mailto:\1}{\1}", line)
-        line = re.sub(r"<(http.+?)>", r"\url{\1}", line)
-        return re.sub(r"\[([^\]]+)\]\(([^\)]+)\)", r"\href{\2}{\1}", line)
+        line = re.sub(r"<([^:]+@[^:]+?)>", r"\\href{mailto:\1}{\1}", line)
+        line = re.sub(r"<(http.+?)>", r"\\url{\1}", line)
+        line = re.sub(r"<(https.+?)>", r"\\url{\1}", line)
+        return re.sub(r"\[([^\]]+)\]\(([^\)]+)\)", r"\\href{\2}{\1}", line)
 
     contact_lines = "\n\n".join(map(replace_links, contact_lines))
 
@@ -109,7 +111,7 @@ def tex(lines, contact_lines, *args):
     for c in escape:
         contact_lines = sub(r'([^\\])\%s' % c, r'\1\%s' % c, contact_lines)
 
-    lines.insert(0, "\\begin{nospace}\\begin{flushright}\n" +
+    lines.insert(0, "\\begin{nospace}\\begin{flushright}\n\\vspace{-2em}" +
                     contact_lines +
                     "\n\\end{flushright}\\end{nospace}\n")
 
@@ -123,22 +125,20 @@ def html(lines, contact_lines, *args):
     for word in untex:
         # yuck
         replace = lambda l: l.replace(r"\%s" % word, word)
-        lines = map(replace, lines)
-        contact_lines = map(replace, contact_lines)
+        lines = list(map(replace, lines))
+        contact_lines = list(map(replace, contact_lines))
 
     gravatar = None
     for line in contact_lines:
-        if line.find("@") > 0:
+        if '@' in line and '--no-gravatar' not in args:
             gravatar = GRAVATAR.format(
-                hash=hashlib.md5(line.lower().strip('<>')).hexdigest())
+                hash=hashlib.md5(line.lower().strip('<>').encode('utf-8')).hexdigest())
             break
-    
-    # Do not display gravatar
-    #if gravatar is not None:
-        #contact_lines.insert(0, "<img src='{}' />".format(gravatar))
+    if gravatar is not None:
+        contact_lines.insert(0, "<img src='{}' />".format(gravatar))
 
     lines.insert(0, "<div id='container'><div id='contact'>%s</div>\n" %
-                         ("<p>" + "</p><p>".join(contact_lines) + "</p>"))
+                 ("<p>" + "</p><p>".join(contact_lines) + "</p>"))
     lines.insert(1, "<div>")
     lines.append("</div>")
 
@@ -151,6 +151,11 @@ def main():
     except IndexError:
         raise Exception("No format specified")
 
+    if '-h' in sys.argv or '--help' in sys.argv:
+        sys.stderr.write(
+            "Usage: python resume.py tex|html [--no-gravatar] < INPUT.md\n")
+        raise SystemExit
+
     lines = sys.stdin.readlines()
 
     contact_lines = []
@@ -162,7 +167,7 @@ def main():
 
         contact_lines.extend(parts)
 
-    print processor.process(format, lines, contact_lines, *sys.argv[1:])
+    print(processor.process(format, lines, contact_lines, *sys.argv[1:]))
 
 if __name__ == '__main__':
     main()

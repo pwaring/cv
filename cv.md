@@ -16,7 +16,7 @@ Technical Skills
 *   **Web Development:** Proficient with HTML and JavaScript. Familiar with CSS and jQuery.
 *   **Frameworks and Libraries:** Familiar with Laravel, Bootstrap and Bulma.
 *   **Operating Systems:** Proficient with Linux, particularly Debian and Ubuntu.
-*   **Server Software:** Proficient with Apache, Nginx and MySQL/MariaDB/Percona.
+*   **Server Software:** Proficient with Apache, Nginx and MySQL/MariaDB.
 *   **Version Control:** Proficient with Git.
 *   **Virtualisation:** Proficient with Vagrant.
 *   **Configuration Management:** Proficient with Ansible.
@@ -66,7 +66,7 @@ Experience
 
     Technical Manager, March 2009 - November 2013
 
-    - Developed online wholesale insurance trading platform, written in PHP with MySQL/Percona for data storage.
+    - Developed online wholesale insurance trading platform, written in PHP with MySQL for data storage.
     - Designed and built automated invoicing and credit control system, handling over £30m of annual premiums.
     - Automated a wide range of repetitive tasks, including production of Excel reports, eliminating re-keying errors and reducing turnaround time.
     - Built two new insurance products from scratch, including managing the full process from initial meetings with suppliers through to implementation, reviewing contracts, and launch within agreed deadlines.

@@ -17,8 +17,8 @@ Technical Skills
 *   **Frameworks and Libraries:** Familiar with Laravel, Bootstrap and Bulma.
 *   **Operating Systems:** Proficient with Linux, particularly Debian and Ubuntu.
 *   **Server Software:** Proficient with Apache, Nginx and MySQL/MariaDB/Percona.
-*   **Version Control:** Proficient with Git. Familiar with Subversion.
-*   **Virtualisation:** Familiar with Vagrant and VirtualBox.
+*   **Version Control:** Proficient with Git.
+*   **Virtualisation:** Proficient with Vagrant.
 *   **Configuration Management:** Proficient with Ansible.
 
 Experience
@@ -46,7 +46,7 @@ Experience
 
     Software Support Officer, December 2013 - June 2015
 
-    - Maintained and developed internal infrastructure and software as part of a small team.
+    - Maintained and developed internal infrastructure and software as part of a team.
     - Provided cover in laboratories for academic staff due to timetable clashes, illness etc.
     - Provided student-facing support and contributed to teaching materials.
     - Developed testing environments to match production, using Vagrant and VirtualBox.
@@ -69,7 +69,7 @@ Experience
     - Developed online wholesale insurance trading platform, written in PHP with MySQL/Percona for data storage.
     - Designed and built automated invoicing and credit control system, handling over £30m of annual premiums.
     - Automated a wide range of repetitive tasks, including production of Excel reports, eliminating re-keying errors and reducing turnaround time.
-    - Built two new insurance products from scratch: commercial combined and automated breakdown quotations. Managed the full process from initial meetings with suppliers through to implementation, reviewing contracts, and launch within agreed deadlines.
+    - Built two new insurance products from scratch, including managing the full process from initial meetings with suppliers through to implementation, reviewing contracts, and launch within agreed deadlines.
     - Translated underwriting criteria into an XML web service with a REST API, providing 10,000 quotes per month for a salary sacrifice scheme used by over twenty medium and large UK companies.
     - Worked with a wide range of external partners, including UK insurers, Experian and the Motor Insurers' Bureau.
 
@@ -117,5 +117,5 @@ Education
 
     - BSc (Hons) Computer Science (2:1)
 
-**Last updated:** 7th August 2020  
+**Last updated:** 15th January 2021  
 **Latest version:** [phpdev.uk/cv](https://www.phpdev.uk/cv)

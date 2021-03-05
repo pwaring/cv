@@ -12,7 +12,7 @@ Freelance PHP developer and Linux system administrator based in Manchester, UK, 
 Technical Skills
 ------
 
-*   **Computer Languages:** Proficient with PHP and SQL.
+*   **Computer Languages:** Proficient with PHP and SQL. Familiar with Go.
 *   **Web Development:** Proficient with HTML and JavaScript. Familiar with CSS and jQuery.
 *   **Frameworks and Libraries:** Familiar with Laravel, Bootstrap and Bulma.
 *   **Operating Systems:** Proficient with Linux, particularly Debian and Ubuntu.
@@ -28,9 +28,9 @@ Experience
 
     Freelance PHP Developer and Linux System Administrator, July 2015 - Present
 
-    - Development and maintenance of bespoke websites and customisation of existing software, primarily using PHP and MySQL/MariaDB/Percona.
-    - System administration (Debian and Ubuntu), including migration and consolidation of hosting platforms, diagnosing and fixing of email issues and security improvements.
-    - Assist clients with implementation of best practices, including documentation, version control, configuration management, automatic deployment, disaster recovery and risk planning.
+    - Development and maintenance of bespoke websites and customisation of existing software, primarily using PHP and MySQL/MariaDB.
+    - Migration and consolidation of hosting platforms, diagnosing and fixing of email issues and security improvements.
+    - Implementation of best practices, including documentation, version control, configuration management, automatic deployment, disaster recovery and risk planning.
     - Deliver training on version control (Git) and configuration management (Ansible).
 
 *   **Bolton & District Citizens Advice Bureau**
@@ -38,7 +38,7 @@ Experience
     Director & Trustee, December 2015 - November 2018
 
     - Vice chair of the main board and member of the finance committee.
-    - Contributed to national support for trustees via Trustee Development Group.
+    - Contributed to support for trustees at the national level via the Trustee Development Group.
     - Represented the organisation on the board of Citizens Advice Greater Manchester.
     - Focused on improving the finances of the organisation, including working closely with the finance officer and other management staff.
 
@@ -52,14 +52,15 @@ Experience
     - Developed testing environments to match production, using Vagrant and VirtualBox.
     - Virtualised existing physical infrastructure to improve reliability and reduce recovery times.
     - Integrated multiple support systems and authored CPAN module: [OTRS::ForwardQueue](https://metacpan.org/pod/OTRS::ForwardQueue).
+    - Produced substantial documentation and encouraged the moving of projects into version control.
 
 *   **Direct Fleet Insurance Services Ltd**
 
     IT Director, October 2010 - November 2013
 
     - Formulated long term strategy as member of the Board, including budgets and financial forecasting.
-    - Researched pension provision for employees in preparation for auto-enrolment.
     - Reduced server-side IT expenditure by 25% as a result of reviewing hosting costs, switching providers and consolidating services.
+    - Attended board meetings of the company's FCA principal.
     - Held Financial Conduct Authority approved person status for the duration of this role.
 
 *   **Direct Fleet Insurance Services Ltd**
@@ -69,7 +70,7 @@ Experience
     - Developed online wholesale insurance trading platform, written in PHP with MySQL for data storage.
     - Designed and built automated invoicing and credit control system, handling over £30m of annual premiums.
     - Automated a wide range of repetitive tasks, including production of Excel reports, eliminating re-keying errors and reducing turnaround time.
-    - Built two new insurance products from scratch, including managing the full process from initial meetings with suppliers through to implementation, reviewing contracts, and launch within agreed deadlines.
+    - Built two new insurance products from scratch, including managing the full process from initial meetings with suppliers through to reviewing contracts, implementation, and launch within agreed deadlines.
     - Translated underwriting criteria into an XML web service with a REST API, providing 10,000 quotes per month for a salary sacrifice scheme used by over twenty medium and large UK companies.
     - Worked with a wide range of external partners, including UK insurers, Experian and the Motor Insurers' Bureau.
 
@@ -117,5 +118,5 @@ Education
 
     - BSc (Hons) Computer Science (2:1)
 
-**Last updated:** 15th January 2021  
+**Last updated:** 5th March 2021  
 **Latest version:** [phpdev.uk/cv](https://www.phpdev.uk/cv)

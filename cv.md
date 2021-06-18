@@ -10,7 +10,7 @@ Summary
 Freelance PHP developer and Linux system administrator based in Manchester, UK, with broad range of qualifications up to and including postgraduate level. Experience in public, private and voluntary sectors, including service on several boards.
 
 Technical Skills
-------
+----------------
 
 *   **Computer Languages:** Proficient with PHP and SQL. Familiar with Go.
 *   **Web Development:** Proficient with HTML and JavaScript. Familiar with CSS and jQuery.
@@ -18,7 +18,7 @@ Technical Skills
 *   **Operating Systems:** Proficient with Linux, particularly Debian and Ubuntu.
 *   **Server Software:** Proficient with Apache, Nginx and MySQL/MariaDB.
 *   **Version Control:** Proficient with Git.
-*   **Virtualisation:** Proficient with Vagrant.
+*   **Virtualisation and Containers:** Proficient with Vagrant. Familiar with Docker.
 *   **Configuration Management:** Proficient with Ansible.
 
 Experience
@@ -52,7 +52,7 @@ Experience
     - Developed testing environments to match production, using Vagrant and VirtualBox.
     - Virtualised existing physical infrastructure to improve reliability and reduce recovery times.
     - Integrated multiple support systems and authored CPAN module: [OTRS::ForwardQueue](https://metacpan.org/pod/OTRS::ForwardQueue).
-    - Produced substantial documentation and encouraged the moving of projects into version control.
+    - Produced substantial documentation and organised the migration of projects into version control.
 
 *   **Direct Fleet Insurance Services Ltd**
 
@@ -60,15 +60,15 @@ Experience
 
     - Formulated long term strategy as member of the Board, including budgets and financial forecasting.
     - Reduced server-side IT expenditure by 25% as a result of reviewing hosting costs, switching providers and consolidating services.
-    - Attended board meetings of the company's FCA principal.
+    - Attended board meetings of the company's FCA principal, Blagrove Underwriting Agency Ltd.
     - Held Financial Conduct Authority approved person status for the duration of this role.
 
 *   **Direct Fleet Insurance Services Ltd**
 
     Technical Manager, March 2009 - November 2013
 
-    - Developed online wholesale insurance trading platform, written in PHP with MySQL for data storage.
-    - Designed and built automated invoicing and credit control system, handling over £30m of annual premiums.
+    - Developed wholesale insurance trading platform, written in PHP with MySQL for data storage.
+    - Designed and built automated invoicing system, handling over £30m of annual premiums.
     - Automated a wide range of repetitive tasks, including production of Excel reports, eliminating re-keying errors and reducing turnaround time.
     - Built two new insurance products from scratch, including managing the full process from initial meetings with suppliers through to reviewing contracts, implementation, and launch within agreed deadlines.
     - Translated underwriting criteria into an XML web service with a REST API, providing 10,000 quotes per month for a salary sacrifice scheme used by over twenty medium and large UK companies.
@@ -81,7 +81,7 @@ Experience
 
     - Organised annual conferences with other volunteers; lead organiser and conference chair for 2009, 2010 and 2011.
     - Served as chairman for four years (2008-2012), with responsibility for chairing bi-monthly Council meetings and the AGM.
-    - Liaised with a range of corporate sponsors, including Google and Sun Microsystems (now Oracle).
+    - Liaised with a range of corporate sponsors, including Google and Sun Microsystems.
 
 Other activities
 ----------------
@@ -110,7 +110,7 @@ Education
 
     September 2006 - August 2007
 
-    - MA Ancient World Studies (Classics and Ancient History)
+    - MA Ancient World Studies
 
 *   **University of Manchester**
 
@@ -118,5 +118,5 @@ Education
 
     - BSc (Hons) Computer Science (2:1)
 
-**Last updated:** 5th March 2021  
+**Last updated:** 18th June 2021  
 **Latest version:** [phpdev.uk/cv](https://www.phpdev.uk/cv)

@@ -70,9 +70,9 @@ Experience
     - Developed wholesale insurance trading platform, written in PHP with MySQL for data storage.
     - Designed and built automated invoicing system, handling over £30m of annual premiums.
     - Automated a wide range of repetitive tasks, including production of Excel reports, eliminating re-keying errors and reducing turnaround time.
-    - Built two new insurance products from scratch, including managing the full process from initial meetings with suppliers through to reviewing contracts, implementation, and launch within agreed deadlines.
+    - Built new insurance products from scratch, managing the full process from initial meetings with suppliers through to reviewing contracts, implementation, and launch within agreed deadlines.
     - Translated underwriting criteria into an XML web service with a REST API, providing 10,000 quotes per month for a salary sacrifice scheme used by over twenty medium and large UK companies.
-    - Worked with a wide range of external partners, including UK insurers, Experian and the Motor Insurers' Bureau.
+    - Worked with a wide range of external partners, including UK and EU insurers, Experian and the Motor Insurers' Bureau.
 
 *   **UKUUG Ltd**
 
@@ -86,13 +86,13 @@ Experience
 Other activities
 ----------------
 
-* Committee member, Manchester Classical Association, April 2016 - Present.
+* Committee member, Manchester Classical Association, April 2016 - July 2021.
 * Treasurer, Manchester Friends of the Earth, November 2015 - February 2018.
 * Founder and lead organiser of a monthly walking group, May 2012 - Present.
 * Newsletter Editor, FLOSS UK, August 2014 - May 2016.
 * Treasurer, Manchester Classical Association, July 2012 - April 2016 & December 2016 - June 2017.
 * Director & Trustee, Manchester Environmental Resource Centre Initiative Ltd, December 2008 - December 2010.
-* Webmaster, Manchester Classical Association, November 2007 - Present.
+* Webmaster, Manchester Classical Association, November 2007 - July 2021.
 * Committee Member, Association for History and Computing UK, October 2007 - October 2010.
 * Joint Co-ordinator, Manchester Friends of the Earth, December 2006 - April 2009.
 * Chairman, University of Manchester Computer Society, September 2004 - September 2005.
@@ -118,5 +118,5 @@ Education
 
     - BSc (Hons) Computer Science (2:1)
 
-**Last updated:** 18th June 2021  
+**Last updated:** 3rd September 2021  
 **Latest version:** [phpdev.uk/cv](https://www.phpdev.uk/cv)

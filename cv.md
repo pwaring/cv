@@ -18,7 +18,7 @@ Technical Skills
 *   **Operating Systems:** Proficient with Linux, particularly Debian and Ubuntu.
 *   **Server Software:** Proficient with Apache, Nginx and MySQL/MariaDB.
 *   **Version Control:** Proficient with Git.
-*   **Virtualisation and Containers:** Proficient with Vagrant. Familiar with Docker.
+*   **Virtualisation and Containers:** Proficient with Vagrant and Docker.
 *   **Configuration Management:** Proficient with Ansible.
 
 Experience
@@ -118,5 +118,5 @@ Education
 
     - BSc (Hons) Computer Science (2:1)
 
-**Last updated:** 3rd September 2021  
+**Last updated:** 16th December 2021  
 **Latest version:** [phpdev.uk/cv](https://www.phpdev.uk/cv)

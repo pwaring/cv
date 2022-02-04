@@ -14,7 +14,7 @@ Technical Skills
 
 *   **Computer Languages:** Proficient with PHP and SQL. Familiar with Go.
 *   **Web Development:** Proficient with HTML and JavaScript. Familiar with CSS and jQuery.
-*   **Frameworks and Libraries:** Familiar with Laravel, Bootstrap and Bulma.
+*   **Frameworks and Libraries:** Familiar with Laravel, Slim, Bootstrap and Bulma.
 *   **Operating Systems:** Proficient with Linux, particularly Debian and Ubuntu.
 *   **Server Software:** Proficient with Apache, Nginx and MySQL/MariaDB.
 *   **Version Control:** Proficient with Git.
@@ -30,8 +30,8 @@ Experience
 
     - Development and maintenance of bespoke websites and customisation of existing software, primarily using PHP and MySQL/MariaDB.
     - Migration and consolidation of hosting platforms, diagnosing and fixing of email issues and security improvements.
-    - Implementation of best practices, including documentation, version control, configuration management, automatic deployment, disaster recovery and risk planning.
-    - Deliver training on version control (Git) and configuration management (Ansible).
+    - Implementation of best practices, including documentation, version control, testing, configuration management, automatic deployment, disaster recovery and risk planning.
+    - Deliver training on version control (Git) and configuration management (Ansible) and mentoring on PHP and related skills.
 
 *   **Bolton & District Citizens Advice Bureau**
 
@@ -118,5 +118,5 @@ Education
 
     - BSc (Hons) Computer Science (2:1)
 
-**Last updated:** 16th December 2021  
+**Last updated:** 4th February 2022  
 **Latest version:** [phpdev.uk/cv](https://www.phpdev.uk/cv)

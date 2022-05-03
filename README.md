@@ -13,3 +13,4 @@ PDF and HTML versions can be found online: https://www.phpdev.uk/cv
 ## Credits
 
  * [mwhite/resume](https://github.com/mwhite/resume) - `cv.py` file (`resume.py` in that repository)
+

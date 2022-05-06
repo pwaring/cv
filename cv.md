@@ -86,7 +86,7 @@ Experience
 Other activities
 ----------------
 
-* Committee member, Manchester Classical Association, April 2016 - July 2021.
+* Committee Member, Manchester Classical Association, April 2016 - July 2021.
 * Treasurer, Manchester Friends of the Earth, November 2015 - February 2018.
 * Founder and lead organiser of a monthly walking group, May 2012 - Present.
 * Newsletter Editor, FLOSS UK, August 2014 - May 2016.
@@ -118,5 +118,5 @@ Education
 
     - BSc (Hons) Computer Science (2:1)
 
-**Last updated:** 4th February 2022  
+**Last updated:** 6th May 2022  
 **Latest version:** [phpdev.uk/cv](https://www.phpdev.uk/cv)

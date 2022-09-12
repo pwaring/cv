@@ -7,7 +7,7 @@ Paul Waring
 Summary
 -------
 
-Freelance PHP developer and Linux system administrator based in Manchester, UK, with broad range of qualifications up to and including postgraduate level. Experience in public, private and voluntary sectors, including service on several boards.
+Freelance PHP Developer and Linux System Administrator based in Manchester, UK, with broad range of qualifications up to and including postgraduate level. Experience in public, private and voluntary sectors, including service on several boards.
 
 Technical Skills
 ----------------
@@ -16,7 +16,7 @@ Technical Skills
 *   **Web Development:** Proficient with HTML and JavaScript. Familiar with CSS and jQuery.
 *   **Frameworks and Libraries:** Familiar with Laravel, Slim, Bootstrap and Bulma.
 *   **Operating Systems:** Proficient with Linux, particularly Debian and Ubuntu.
-*   **Server Software:** Proficient with Apache, Nginx and MySQL/MariaDB.
+*   **Server Software:** Proficient with Apache, Nginx, MySQL and MariaDB.
 *   **Version Control:** Proficient with Git.
 *   **Virtualisation and Containers:** Proficient with Vagrant and Docker.
 *   **Configuration Management:** Proficient with Ansible.
@@ -28,10 +28,10 @@ Experience
 
     Freelance PHP Developer and Linux System Administrator, July 2015 - Present
 
-    - Development and maintenance of bespoke websites and customisation of existing software, primarily using PHP and MySQL/MariaDB.
+    - Development and maintenance of bespoke websites and customisation of existing software, primarily using PHP, MySQL and MariaDB.
     - Migration and consolidation of hosting platforms, diagnosing and fixing of email issues and security improvements.
-    - Implementation of best practices, including documentation, version control, testing, configuration management, automatic deployment, disaster recovery and risk planning.
-    - Deliver training on version control (Git) and configuration management (Ansible) and mentoring on PHP and related skills.
+    - Implementation of best practices, including documentation, version control, testing, configuration management, automated deployment, disaster recovery and risk planning.
+    - Deliver mentoring on PHP and related skills and training on version control (Git) and configuration management (Ansible).
 
 *   **Bolton & District Citizens Advice Bureau**
 
@@ -52,11 +52,11 @@ Experience
     - Developed testing environments to match production, using Vagrant and VirtualBox.
     - Virtualised existing physical infrastructure to improve reliability and reduce recovery times.
     - Integrated multiple support systems and authored CPAN module: [OTRS::ForwardQueue](https://metacpan.org/pod/OTRS::ForwardQueue).
-    - Produced substantial documentation and organised the migration of projects into version control.
+    - Produced substantial documentation and migrated projects into version control (Git).
 
 *   **Direct Fleet Insurance Services Ltd**
 
-    IT Director, October 2010 - November 2013
+    Director, October 2010 - November 2013
 
     - Formulated long term strategy as member of the Board, including budgets and financial forecasting.
     - Reduced server-side IT expenditure by 25% as a result of reviewing hosting costs, switching providers and consolidating services.
@@ -118,5 +118,5 @@ Education
 
     - BSc (Hons) Computer Science (2:1)
 
-**Last updated:** 4th July 2022  
+**Last updated:** 12th September 2022  
 **Latest version:** [phpdev.uk/cv](https://www.phpdev.uk/cv)

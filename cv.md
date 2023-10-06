@@ -14,7 +14,7 @@ Technical Skills
 
 *   **Computer Languages:** Proficient with PHP and SQL. Familiar with Go and C.
 *   **Web Development:** Proficient with HTML and JavaScript. Familiar with CSS and jQuery.
-*   **Frameworks and Libraries:** Familiar with Laravel, Slim, Bootstrap and Bulma.
+*   **Frameworks and Libraries:** Proficient with Slim. Familiar with Laravel, Bootstrap and Bulma.
 *   **Operating Systems:** Proficient with Linux, particularly Debian and Ubuntu.
 *   **Server Software:** Proficient with Apache, Nginx, MySQL and MariaDB.
 *   **Version Control:** Proficient with Git.
@@ -118,5 +118,5 @@ Education
 
     - BSc (Hons) Computer Science (2:1)
 
-**Last updated:** 31st May 2023  
+**Last updated:** 6th October 2023  
 **Latest version:** [phpdev.uk/cv](https://www.phpdev.uk/cv)

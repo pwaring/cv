@@ -29,6 +29,7 @@ Experience
     Freelance PHP Developer and Linux System Administrator, July 2015 - Present
 
     - Development and maintenance of bespoke websites and customisation of existing software, primarily using PHP, MySQL and MariaDB.
+    - PHP upgrades (all versions between 5.1 and 8.3).
     - Migration and consolidation of hosting platforms, diagnosing and fixing of email issues and security improvements.
     - Implementation of best practices, including documentation, version control, testing, configuration management, automated deployment, disaster recovery and risk planning.
     - Deliver mentoring on PHP and related skills and training on version control (Git) and configuration management (Ansible).
@@ -71,8 +72,8 @@ Experience
     - Designed and built automated invoicing system, handling over £30mn of annual premiums.
     - Automated a wide range of repetitive tasks, including production of Excel reports, eliminating re-keying errors and reducing turnaround times.
     - Built new insurance products from scratch, managing the full process from initial meetings with suppliers through to reviewing contracts, implementation, and launch within agreed deadlines.
-    - Translated underwriting criteria into an XML web service with a REST API, providing 10,000 quotes per month for a salary sacrifice scheme used by over twenty medium and large UK companies.
-    - Worked with a wide range of external partners, including UK and EU insurers, Experian and the Motor Insurers' Bureau.
+    - Translated underwriting criteria into an XML web service with a REST API, providing 10,000 quotes per month for a salary sacrifice scheme.
+    - Worked with a wide range of external partners, including UK and EU insurers.
 
 *   **UKUUG Ltd**
 
@@ -118,5 +119,5 @@ Education
 
     - BSc (Hons) Computer Science (2:1)
 
-**Last updated:** 6th October 2023  
+**Last updated:** 10th June 2024  
 **Latest version:** [phpdev.uk/cv](https://www.phpdev.uk/cv)

@@ -119,5 +119,5 @@ Education
 
     - BSc (Hons) Computer Science (2:1)
 
-**Last updated:** 10th June 2024  
+**Last updated:** 9th August 2024  
 **Latest version:** [phpdev.uk/cv](https://www.phpdev.uk/cv)

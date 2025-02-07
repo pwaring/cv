@@ -7,7 +7,7 @@ Paul Waring
 Summary
 -------
 
-Freelance PHP Developer and Linux System Administrator based in Manchester, UK, with broad range of qualifications up to and including postgraduate level. Experience in public, private and voluntary sectors, including service on several boards.
+Freelance PHP Developer and Linux System Administrator based in Manchester, UK, with broad range of qualifications up to and including postgraduate level. Experience in public, private and voluntary sectors, including at director level.
 
 Technical Skills
 ----------------
@@ -16,9 +16,9 @@ Technical Skills
 *   **Web Development:** Proficient with HTML and JavaScript. Familiar with CSS and jQuery.
 *   **Frameworks and Libraries:** Proficient with Slim. Familiar with Laravel, Bootstrap and Bulma.
 *   **Operating Systems:** Proficient with Linux, particularly Debian and Ubuntu.
-*   **Server Software:** Proficient with Apache, Nginx, MySQL and MariaDB.
+*   **Server Software:** Proficient with Apache, Nginx, MySQL and MariaDB. Familiar with PostgreSQL.
 *   **Version Control:** Proficient with Git.
-*   **Virtualisation and Containers:** Proficient with Vagrant and Docker.
+*   **Virtualisation and Containers:** Proficient with Docker and Vagrant.
 *   **Configuration Management:** Proficient with Ansible.
 
 Experience
@@ -83,6 +83,7 @@ Experience
     - Organised annual conferences with other volunteers. Lead organiser and conference chair for 2009, 2010 and 2011.
     - Served as chairman for four years (2008-2012), with responsibility for chairing bi-monthly Council meetings and the AGM.
     - Liaised with a range of corporate sponsors, including Google and Sun Microsystems.
+    - Took organisation through rebrand from UKUUG to FLOSS UK.
 
 Other activities
 ----------------
@@ -119,5 +120,5 @@ Education
 
     - BSc (Hons) Computer Science (2:1)
 
-**Last updated:** 9th August 2024  
+**Last updated:** 7th February 2025  
 **Latest version:** [phpdev.uk/cv](https://www.phpdev.uk/cv)

@@ -31,7 +31,7 @@ Experience
     - Development and maintenance of bespoke websites and customisation of existing software, primarily using PHP, MySQL and MariaDB.
     - PHP upgrades (all versions between 5.1 and 8.3).
     - Migration and consolidation of hosting platforms, diagnosing and fixing of email issues and security improvements.
-    - Implementation of best practices, including documentation, version control, testing, configuration management, automated deployment, disaster recovery and risk planning.
+    - Implementation of best practices, including documentation, version control, automated testing, configuration management, automated deployment, disaster recovery and risk planning.
     - Deliver mentoring on PHP and related skills and training on version control (Git) and configuration management (Ansible).
 
 *   **Bolton & District Citizens Advice Bureau**
@@ -120,5 +120,5 @@ Education
 
     - BSc (Hons) Computer Science (2:1)
 
-**Last updated:** 7th February 2025  
+**Last updated:** 2nd May 2025  
 **Latest version:** [phpdev.uk/cv](https://www.phpdev.uk/cv)

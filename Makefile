@@ -14,3 +14,5 @@ deploy: cv.pdf cv.html
 
 clean:
 	rm -f *.html *.pdf *.doc
+
+.PHONY: clean deploy

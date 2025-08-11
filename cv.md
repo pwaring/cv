@@ -94,6 +94,7 @@ Other activities
 * Newsletter Editor, FLOSS UK, August 2014 - May 2016.
 * Treasurer, Manchester Classical Association, July 2012 - April 2016 & December 2016 - June 2017.
 * Director & Trustee, Manchester Environmental Resource Centre Initiative Ltd, December 2008 - December 2010.
+* Membership Secretary, UK Shareholders' Association, August 2008 - April 2009.
 * Webmaster, Manchester Classical Association, November 2007 - July 2021.
 * Committee Member, Association for History and Computing UK, October 2007 - October 2010.
 * Joint Co-ordinator, Manchester Friends of the Earth, December 2006 - April 2009.

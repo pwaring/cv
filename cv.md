@@ -7,7 +7,7 @@ Paul Waring
 Summary
 -------
 
-Freelance PHP Developer and Linux System Administrator based in Manchester, UK, with broad range of qualifications up to and including postgraduate level. Experience in public, private and voluntary sectors, including at director level.
+Freelance PHP Developer and Linux System Administrator based in Manchester, UK, with postgraduate qualifications. Experience in public, private and voluntary sectors, including four directorships. Currently available for freelance clients and part-time board positions.
 
 Technical Skills
 ----------------
@@ -40,7 +40,7 @@ Experience
 
     - Vice chair of the main board and member of the finance committee.
     - Contributed to support for trustees at the national level via the Trustee Development Group.
-    - Represented the organisation on the board of Citizens Advice Greater Manchester.
+    - Represented the organisation at Citizens Advice Greater Manchester.
     - Focused on improving the finances of the organisation, including working closely with the finance officer and other management staff.
 
 *   **University of Manchester**
@@ -62,7 +62,7 @@ Experience
     - Formulated long term strategy as member of the Board, including budgets and financial forecasting.
     - Reduced server-side IT expenditure by 25% as a result of reviewing hosting costs, switching providers and consolidating services.
     - Attended board meetings of the company's FCA principal, Blagrove Underwriting Agency Ltd.
-    - Held Financial Conduct Authority approved person status for the duration of this role.
+    - Held Financial Conduct Authority approved person status for the duration of this role (PXW01619).
 
 *   **Direct Fleet Insurance Services Ltd**
 
@@ -121,5 +121,5 @@ Education
 
     - BSc (Hons) Computer Science (2:1)
 
-**Last updated:** 2nd May 2025  
+**Last updated:** 11th August 2025  
 **Latest version:** [phpdev.uk/cv](https://www.phpdev.uk/cv)

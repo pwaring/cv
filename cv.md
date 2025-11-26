@@ -7,7 +7,7 @@ Paul Waring
 Summary
 -------
 
-Freelance PHP Developer and Linux System Administrator based in Manchester, UK, with postgraduate qualifications. Experience in public, private and voluntary sectors, including four directorships. Currently available for freelance clients and part-time board positions.
+Freelance PHP Developer and Linux System Administrator based in Manchester, UK, with postgraduate qualifications. Experience in public, private and voluntary sectors, including five directorships. Currently available for freelance clients and part-time board positions.
 
 Technical Skills
 ----------------
@@ -33,6 +33,14 @@ Experience
     - Migration and consolidation of hosting platforms, diagnosing and fixing of email issues and security improvements.
     - Implementation of best practices, including documentation, version control, automated testing, configuration management, automated deployment, disaster recovery and risk planning.
     - Deliver mentoring on PHP and related skills and training on version control (Git) and configuration management (Ansible).
+
+*   **Blagrove Underwriting Agency Ltd**
+
+    Director of IT and Chief Security Officer, November 2025 - Present
+
+    - Responsibile for the oversight of IT performance and the IT Team.
+    - Report to the Board on programming and performance of the IT platform.
+    - Hold Financial Conduct Authority approved person status for the duration of this role (PXW01619).
 
 *   **Bolton & District Citizens Advice Bureau**
 
@@ -90,13 +98,9 @@ Other activities
 
 * Committee Member, Manchester Classical Association, April 2016 - July 2021.
 * Treasurer, Manchester Friends of the Earth, November 2015 - February 2018.
-* Founder and lead organiser of a monthly walking group, May 2012 - Present.
 * Newsletter Editor, FLOSS UK, August 2014 - May 2016.
 * Treasurer, Manchester Classical Association, July 2012 - April 2016 & December 2016 - June 2017.
 * Director & Trustee, Manchester Environmental Resource Centre Initiative Ltd, December 2008 - December 2010.
-* Membership Secretary, UK Shareholders' Association, August 2008 - April 2009.
-* Webmaster, Manchester Classical Association, November 2007 - July 2021.
-* Committee Member, Association for History and Computing UK, October 2007 - October 2010.
 * Joint Co-ordinator, Manchester Friends of the Earth, December 2006 - April 2009.
 * Chairman, University of Manchester Computer Society, September 2004 - September 2005.
 
@@ -121,5 +125,5 @@ Education
 
     - BSc (Hons) Computer Science (2:1)
 
-**Last updated:** 11th August 2025  
+**Last updated:** 26th November 2025  
 **Latest version:** [phpdev.uk/cv](https://www.phpdev.uk/cv)
